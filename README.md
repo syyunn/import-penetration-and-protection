@@ -49,7 +49,7 @@ Models are mainly arguing over the negative/postivie correlation between `import
 
 - For the model part, I could try linear regression as above, or,
 
-- Or, I could perform `ablation study` with `Probabilistic Forecasting models`
+- I could perform `ablation study` with `Probabilistic Forecasting models`
 <img src="./pf.png" width="500">
 
   - PF models gets the fixed `n-window sized input` and then predict next `n+t` period of output (n,t are hyperparameters)
