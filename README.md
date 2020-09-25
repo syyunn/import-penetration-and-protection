@@ -4,7 +4,9 @@
 ![](./myplot2)
 <p align=center><img src="./myplot1.jpg" width="1000"></p>
 
-
+- Maybe this could be due to the political action from the steel industry
+    - This topic is well known as `Protection for Sale`
+    
 ## Literature
 Models are mainly arguing over the negative/postivie correlation between `import penetration ratio` and `protection level`
 - Theoretical Modelling: 
