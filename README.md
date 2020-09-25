@@ -9,5 +9,5 @@
   - [Import penetration and the politics of trade protection (Maggia, 2000; 113)](https://sci-hub.st/https://www.sciencedirect.com/science/article/pii/S002219969900029X)
     - **"Trade protection increases (strictly) with import penetration."**
 - Emprical Validation
-  - [Protection for Sale: An Empirical Investigation (Maggi, 1997)](https://www.google.com/search?ei=xYxtX7_SH9PR-QbvjqOgAg&q=protection+for+sale&oq=protection+for+sale&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgIIADIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgUIABCRAjoECAAQQzoCCC46CAguEMcBEKMCOgQILhBDOgQIABAKUMeMigZYqaWKBmCKpooGaAFwAHgAgAGFA4gBixmSAQgxLjE1LjIuMZgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwj_yIPK1YPsAhXTaN4KHW_HCCQQ4dUDCA0&uact=5)
+  - [Protection for Sale: An Empirical Investigation (Maggi, 1997; 1056)](https://www.nber.org/papers/w5942.pdf)
     - data used only covers a year (1983)
