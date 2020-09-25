@@ -24,7 +24,7 @@ Models are mainly arguing over the negative/postivie correlation between `import
     - used NTB (Non-tariff Barrier) data (because tariff-rates are determined "cooperatively" in the GATT-WTO regime.
     - used manufacturing sector's data only
     - Observations: 107
-<img src="./econometric_model.png" width="150">
+<img src="./econometric_model.png" width="500">
 
 ## Questions
 - Literature I covered is fairly outdated.. any recent re-visit about this subject? 
