@@ -1,6 +1,6 @@
 # Import Penetration and Protection  
 ## What looks Unusual
-
+- Why are the ratio of steel-related antidumping orders are too high given its relatively low import volume?
 ![](./myplot2)
 ![](./myplot1.jpg)
 
