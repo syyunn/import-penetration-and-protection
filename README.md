@@ -37,5 +37,7 @@ Models are mainly arguing over the negative/postivie correlation between `import
   - is this subject still attractive to political scientist?
   - maybe I could re-visit this subject with more data (absolutely more than 107 observations, moreover in monthly level)
 
-- I'd like to use the Federal Register's data  
+- I'd like to use the Federal Register's data as a proxy for the Protection Level (Count of how many times those product mentioned in the federal register for given period of time)
 <img src="./federal-register.png">
+- For the model part, I could try linear regression as above, or 
+- I could try to use With UNComtrade data, I could try ablation study 
