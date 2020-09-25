@@ -59,5 +59,6 @@ Models are mainly arguing over the negative/postivie correlation between `import
   - PF model get the fixed `n-window sized input` and then predict next `n+t` period of output (n,t are hyperparameters)
   - I'd let the model to see the n periods of trade volume data and then predict the count of certain product group mentioned in the federal register or not. 
   - To perform ablation, we could check whether the introduction of addtional `lobbied` feature (whether the product is lobbied or not for that input period of time; retrieved from lobbyview) actually increase the prediction accuracy or not.
+  - In terms of interpretability, PF may not be adequate. It might be hard to interpret which pattern of import volume change leads to that corresponding prediction. 
 
 - Which Data (Tariff or Federal Register) or Model (Linear Regression or PF) will be better for the writing sample?
