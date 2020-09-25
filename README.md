@@ -15,3 +15,4 @@
   - [Protection for Sale: An Empirical Investigation (Maggi, 1997; 1056)](https://www.nber.org/papers/w5942.pdf)
     - data used only covers a year (1983)
     - not stricitly and directly validates the GH model. 
+    - use NTB data 
