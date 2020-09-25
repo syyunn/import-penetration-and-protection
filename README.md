@@ -29,10 +29,10 @@ Models are mainly arguing over the negative/postivie correlation between `import
     - Observations: 107
 <p align=center><img src="./econometric_model.png" width="400"></p>
 
-- I is for organized sector (Measured by "exisitence" of the PAC contribution)
-- e is for import elasticity
-- t is for protection
-- X/M Inverse penetraion ratio where X is export and M is import
+- `I` is for organized sector indicator (Measured by "exisitence" of the PAC contribution)
+- `e` is for import elasticity
+- `t` is for protection
+- `X/M` is for Inverse penetraion ratio (where X is export and M is import)
 
 ## Questions
 #### Any other important & more recent literature on this topic?
