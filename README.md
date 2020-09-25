@@ -10,6 +10,7 @@
     - **"(If the industry is not organized; Reprsented by the lobby) Trade protection increases with import penetration"**
   - [Import penetration and the politics of trade protection (Maggia, 2000; 113)](https://sci-hub.st/https://www.sciencedirect.com/science/article/pii/S002219969900029X)
     - **"Trade protection increases (strictly) with import penetration."**
+  - Many other papers are generally supporting "protection tends to be higher in higher import penetration"
 - Emprical Validation
   - [Protection for Sale: An Empirical Investigation (Maggi, 1997; 1056)](https://www.nber.org/papers/w5942.pdf)
     - data used only covers a year (1983)
