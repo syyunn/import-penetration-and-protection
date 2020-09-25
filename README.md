@@ -25,7 +25,7 @@ Models are mainly arguing over the negative/postivie correlation between `import
     - used NTB (Non-tariff Barrier) data (because tariff-rates are determined "cooperatively" in the GATT-WTO regime.
     - used manufacturing sector's data only
     - Observations: 107
-<img src="./econometric_model.png" width="500">
+<p align=center><img src="./econometric_model.png" width="400"><\p>
 
 - I is for organized sector (Measured by "exisitence" of the PAC contribution)
 - e is for import elasticity
@@ -50,7 +50,7 @@ Models are mainly arguing over the negative/postivie correlation between `import
 - For the model part, I could try linear regression as above, or,
 
 - I could perform `ablation study` with `Probabilistic Forecasting models`
-<img src="./pf.png" width="500">
+<p align=center> <img src="./pf.png" width="500"> <\p>
 
   - PF models gets the fixed `n-window sized input` and then predict next `n+t` period of output (n,t are hyperparameters)
   - I'd let the model to see the n periods of trade volume data and then predict the count of certain product group mentioned in the federal register or not. 
