@@ -27,7 +27,7 @@ Models are mainly arguing over the negative/postivie correlation between `import
     - Observations: 107
 <img src="./econometric_model.png" width="500">
 
-- I is for organized sector
+- I is for organized sector (Measured by "exisitence" of the PAC contribution)
 - e is for import elasticity
 - t is for protection
 - X/M Inverse penetraion ratio where X is export and M is import
@@ -36,3 +36,6 @@ Models are mainly arguing over the negative/postivie correlation between `import
 - Literature above cited is fairly outdated.. any recent re-visit about this subject? 
   - is this subject still attractive to political scientist?
   - maybe I could re-visit this subject with more data (absolutely more than 107 observations, moreover in monthly level)
+
+- I'd like to use the Federal Register's data  
+<img src="./federal-register.png">
