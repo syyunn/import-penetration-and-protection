@@ -1,8 +1,8 @@
 # Import Penetration and Protection  
 ## What looks Unusual
 
-![](./myplot1)
 ![](./myplot2)
+![](./myplot1.jpg)
 
 
 ## Literature
