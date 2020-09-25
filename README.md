@@ -33,11 +33,22 @@ Models are mainly arguing over the negative/postivie correlation between `import
 - X/M Inverse penetraion ratio where X is export and M is import
 
 ## Questions
+#### Any other important & more recent literature on this topic?
 - Literature above cited is fairly outdated.. any recent re-visit about this subject? 
   - is this subject still attractive to political scientist?
   - maybe I could re-visit this subject with more data (absolutely more than 107 observations, moreover in monthly level)
 
-- I'd like to use the Federal Register's data as a proxy for the Protection Level (Count of how many times those product mentioned in the federal register for given period of time)
+#### Data for Protection Level
+- I could use HS-6digit level of MFN tariff data (Maybe safer or more acceptable way to perform the emprical test on this subject)
+
+- Or, I'd like to try the [Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=steel+import)'s Titles as a proxy for the Protection Level 
+  - Counting how many times those product mentioned in the federal register
+  - Will it be make sense to political scientist?
+
 <img src="./federal-register.png">
-- For the model part, I could try linear regression as above, or 
-- I could try to use With UNComtrade data, I could try ablation study 
+- For the model part, I could try linear regression as above, or,
+
+- Or, I could perform `ablation study` with `Probabilistic Forecasting models`
+<img src="./pf.png">
+  - We could check whether the introduction of `lobbyview` data feature actually increase the prediction accuracy or not.
+  
