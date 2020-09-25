@@ -19,7 +19,8 @@ Models are mainly arguing over the negative/postivie correlation between `import
   - Many other papers are generally supporting "protection tends to be higher in higher import penetration"
 - Emprical Validation
   - [Protection for Sale: An Empirical Investigation (Goldberg & Maggi, 1997; 1056)](https://www.nber.org/papers/w5942.pdf)
-    - data used only covers a year (1983)
+    - data used only contains one-year annual data (1983; NBER data) 
+    - SIC 3digit level 
     - not stricitly and directly validates the GH model. 
     - used NTB (Non-tariff Barrier) data (because tariff-rates are determined "cooperatively" in the GATT-WTO regime.
     - used manufacturing sector's data only
@@ -29,6 +30,8 @@ Models are mainly arguing over the negative/postivie correlation between `import
 - I is for organized sector
 - e is for import elasticity
 - t is for protection
+
 ## Questions
-- Literature I covered is fairly outdated.. any recent re-visit about this subject? 
-- 
+- Literature above cited is fairly outdated.. any recent re-visit about this subject? 
+  - is this subject still attractive to political scientist?
+  - maybe I could re-visit this subject with more data (absolutely more than 107 observations, moreover in monthly level)
