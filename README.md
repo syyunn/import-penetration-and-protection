@@ -38,7 +38,7 @@ Models are mainly arguing over the negative/postivie correlation between `import
   - is this subject still attractive to political scientist?
   - maybe I could re-visit this subject with more data (absolutely more than 107 observations, moreover in monthly level)
 
-#### Data for Protection Level
+#### Data as a Proxy for Protection Level
 - I could use HS-6digit level of MFN tariff data (Maybe safer or more acceptable way to perform the emprical test on this subject)
 
 - Or, I'd like to try the [Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=steel+import)'s Titles as a proxy for the Protection Level 
@@ -47,12 +47,15 @@ Models are mainly arguing over the negative/postivie correlation between `import
 
 <img src="./federal-register.png">
 
-- For the model part, I could try linear regression as above, or,
+#### Model Selection
 
-- I could perform `ablation study` with `Probabilistic Forecasting models`
+- For the model part, I could try linear regression as above
+
+- Or, I could perform `ablation study` with `Probabilistic Forecasting models`
 <p align=center> <img src="./pf.png" width="500"></p>
 
-  - PF models gets the fixed `n-window sized input` and then predict next `n+t` period of output (n,t are hyperparameters)
+  - PF model get the fixed `n-window sized input` and then predict next `n+t` period of output (n,t are hyperparameters)
   - I'd let the model to see the n periods of trade volume data and then predict the count of certain product group mentioned in the federal register or not. 
   - To perform ablation, we could check whether the introduction of addtional `lobbied` feature (whether the product is lobbied or not for that input period of time; retrieved from lobbyview) actually increase the prediction accuracy or not.
-  
+
+- Which Data (Tariff or Federal Register) or Model (Linear Regression or PF) will be better for the writing sample?
