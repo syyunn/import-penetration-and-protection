@@ -30,6 +30,7 @@ Models are mainly arguing over the negative/postivie correlation between `import
 - I is for organized sector
 - e is for import elasticity
 - t is for protection
+- X/M Inverse penetraion ratio where X is export and M is import
 
 ## Questions
 - Literature above cited is fairly outdated.. any recent re-visit about this subject? 
