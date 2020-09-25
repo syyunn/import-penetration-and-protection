@@ -12,7 +12,9 @@
     - **"Trade protection increases (strictly) with import penetration."**
   - Many other papers are generally supporting "protection tends to be higher in higher import penetration"
 - Emprical Validation
-  - [Protection for Sale: An Empirical Investigation (Maggi, 1997; 1056)](https://www.nber.org/papers/w5942.pdf)
+  - [Protection for Sale: An Empirical Investigation (Goldberg & Maggi, 1997; 1056)](https://www.nber.org/papers/w5942.pdf)
     - data used only covers a year (1983)
     - not stricitly and directly validates the GH model. 
-    - use NTB data 
+    - used NTB (Non-tariff Barrier) data (because tariff-rates are determined "cooperatively" in the GATT-WTO regime.
+    - used manufacturing sector's data only
+    
