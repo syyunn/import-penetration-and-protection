@@ -12,15 +12,15 @@ Models are mainly arguing over the negative/postivie correlation between `import
 - Theoretical Modelling: 
     1) Deductively designed model that supports the author's argument
     2) No actual data (observation) is used. 
-  - [Protection for sale (Grossman and Helpman, 1994; 5855)](https://sci-hub.st/https://www.jstor.org/stable/2118033) 
+  - [Protection for sale (Grossman and Helpman, 1994; citation: 5855)](https://sci-hub.st/https://www.jstor.org/stable/2118033) 
     - a.k.a GH model
     - **"(If the industry is organized; Reprsented by the lobby) Trade protection decreases with import penetration"** 
     - **"(If the industry is non-organized; Reprsented by the lobby) Trade protection increases with import penetration"**
-  - [Import penetration and the politics of trade protection (Maggia, 2000; 113)](https://sci-hub.st/https://www.sciencedirect.com/science/article/pii/S002219969900029X)
+  - [Import penetration and the politics of trade protection (Maggia, 2000; citation: 113)](https://sci-hub.st/https://www.sciencedirect.com/science/article/pii/S002219969900029X)
     - **"Trade protection increases (strictly) with import penetration."**
   - Many other papers are generally supporting "protection tends to be higher in higher import penetration"
 - Emprical Validation
-  - [Protection for Sale: An Empirical Investigation (Goldberg & Maggi, 1997; 1056)](https://www.nber.org/papers/w5942.pdf)
+  - [Protection for Sale: An Empirical Investigation (Goldberg & Maggi, 1997; citation: 1056)](https://www.nber.org/papers/w5942.pdf)
     - data used only contains one-year annual data (1983; NBER data) 
     - SIC 3digit level 
     - not stricitly and directly validates the GH model. 
