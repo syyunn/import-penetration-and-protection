@@ -49,6 +49,6 @@ Models are mainly arguing over the negative/postivie correlation between `import
 - For the model part, I could try linear regression as above, or,
 
 - Or, I could perform `ablation study` with `Probabilistic Forecasting models`
-<img src="./pf.png">
+<img src="./pf.png" width="500">
   - We could check whether the introduction of `lobbyview` data feature actually increase the prediction accuracy or not.
   
