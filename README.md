@@ -26,9 +26,9 @@ Models are mainly arguing over the negative/postivie correlation between `import
     - Observations: 107
 <img src="./econometric_model.png" width="500">
 
-- I is for organized sector or not
+- I is for organized sector
 - e is for import elasticity
--
+- t is for protection
 ## Questions
 - Literature I covered is fairly outdated.. any recent re-visit about this subject? 
 - 
