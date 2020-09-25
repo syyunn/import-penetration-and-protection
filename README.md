@@ -1,12 +1,12 @@
 # Import Penetration and Protection  
-## What looks Unusual
+### What looks Unusual : Steel Industry's High Protection Compared to Its Relative Import Volume
 - Why are the ratio of steel-related antidumping orders are too high given its relatively low import volume?
 ![](./myplot2)
 ![](./myplot1.jpg)
 
 
 ## Literature
-
+Models are mainly arguing over the negative/postivie correlation between `import penetration ratio` and `protection level`
 - Theoretical Modelling: 
     1) Deductively designed model that supports the author's argument
     2) No actual data (observation) is used. 
@@ -23,4 +23,9 @@
     - not stricitly and directly validates the GH model. 
     - used NTB (Non-tariff Barrier) data (because tariff-rates are determined "cooperatively" in the GATT-WTO regime.
     - used manufacturing sector's data only
-    
+    - Observations: 107
+![](./econometric_model)
+
+## Questions
+- Literature I covered is fairly outdated.. any recent re-visit about this subject? 
+- 
